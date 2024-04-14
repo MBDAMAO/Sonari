@@ -3,5 +3,7 @@
   "rust-analyzer.checkOnSave.extraArgs": [
     "--target",
     "riscv64gc-unknown-none-elf"
-  ]
+  ],
+  // 个性化设置
+  "makefile.makePath": "mingw32-make.exe"
 }
